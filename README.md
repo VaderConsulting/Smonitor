@@ -11,3 +11,21 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `SMonitor` (`Smonitor.vbp`) | VB6 | WinForms exe | Poll Security log and notify on watched events |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Smonitor.vbp`
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+- Access to the Windows Security event log on the monitored machine
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `VB/Old/Smonitor`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
